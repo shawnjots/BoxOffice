@@ -9,7 +9,7 @@ namespace HomeCinema.Data
     {
         public void Configure(EntityTypeBuilder<T> builder)
         {
-            
+            builder.HasKey(e => e.ID);
         }
     }
 }

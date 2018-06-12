@@ -30,7 +30,14 @@ public class HomeCinemaContext : DbContext
     }
 
     protected override void OnModelCreating(ModelBuilder modelBuilder)
-    {//This is where you left off.
-       
+    {
+        modelBuilder.ApplyConfiguration(new UserConfiguration());
+        modelBuilder.ApplyConfiguration(new RoleConfiguration());
+        modelBuilder.ApplyConfiguration(new StockConfiguration());
+        modelBuilder.ApplyConfiguration(new CustomerConfiguration());
+        modelBuilder.ApplyConfiguration(new GenreConfiguration());
+        modelBuilder.ApplyConfiguration(new MovieConfiguration());
+        modelBuilder.ApplyConfiguration(new RentalConfiguration());
+        modelBuilder.ApplyConfiguration(new UserRoleConfiguration());
     }
 }

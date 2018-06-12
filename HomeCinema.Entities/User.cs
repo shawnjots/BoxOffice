@@ -47,7 +47,7 @@ namespace HomeCinema.Entities
         }
 
         private bool isLocked;
-        private bool IsLocked
+        public bool IsLocked
         {
             get { return isLocked; }
             set { isLocked = value; }

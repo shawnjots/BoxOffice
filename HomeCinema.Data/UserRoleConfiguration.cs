@@ -1,4 +1,5 @@
 ﻿using HomeCinema.Entities;
+using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Metadata.Builders;
 using System;
 using System.Collections.Generic;
@@ -6,7 +7,7 @@ using System.Text;
 
 namespace HomeCinema.Data
 {
-    public class UserRoleConfiguration
+    public class UserRoleConfiguration : IEntityTypeConfiguration<UserRole>
     {
         public void Configure(EntityTypeBuilder<UserRole> builder)
         {

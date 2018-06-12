@@ -1,4 +1,5 @@
 ﻿using HomeCinema.Entities;
+using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Metadata.Builders;
 using System;
 using System.Collections.Generic;
@@ -6,7 +7,7 @@ using System.Text;
 
 namespace HomeCinema.Data
 {
-    public class StockConfiguration
+    public class StockConfiguration : IEntityTypeConfiguration<Stock>
     {
         public void Configure(EntityTypeBuilder<Stock> builder)
         {
