@@ -13,7 +13,7 @@ namespace HomeCinema.Data
         {
             foreach (IMutableEntityType entity in modelBuilder.Model.GetEntityTypes())
             {
-                //entity. = entity.DisplayName(); Find method tablename
+               //entity. = entity.DisplayName(); //Find method TableName. 
             }
         }
     }
