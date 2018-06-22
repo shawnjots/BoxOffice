@@ -1,6 +1,0 @@
-C:\Users\Shawn Majoto.X-CORE\source\repos\BoxOffice\HomeCinema.Entities\bin\Debug\netcoreapp2.0\HomeCinema.Entities.deps.json
-C:\Users\Shawn Majoto.X-CORE\source\repos\BoxOffice\HomeCinema.Entities\bin\Debug\netcoreapp2.0\HomeCinema.Entities.dll
-C:\Users\Shawn Majoto.X-CORE\source\repos\BoxOffice\HomeCinema.Entities\obj\Debug\netcoreapp2.0\HomeCinema.Entities.csprojResolveAssemblyReference.cache
-C:\Users\Shawn Majoto.X-CORE\source\repos\BoxOffice\HomeCinema.Entities\obj\Debug\netcoreapp2.0\HomeCinema.Entities.csproj.CoreCompileInputs.cache
-C:\Users\Shawn Majoto.X-CORE\source\repos\BoxOffice\HomeCinema.Entities\obj\Debug\netcoreapp2.0\HomeCinema.Entities.AssemblyInfoInputs.cache
-C:\Users\Shawn Majoto.X-CORE\source\repos\BoxOffice\HomeCinema.Entities\obj\Debug\netcoreapp2.0\HomeCinema.Entities.AssemblyInfo.cs

@@ -1,0 +1,12 @@
+C:\Users\Shawn Majoto.X-CORE\source\repos\BoxOffice\HomeCinema.Data\bin\Debug\netcoreapp2.1\HomeCinema.Data.deps.json
+C:\Users\Shawn Majoto.X-CORE\source\repos\BoxOffice\HomeCinema.Data\bin\Debug\netcoreapp2.1\HomeCinema.Data.dll
+C:\Users\Shawn Majoto.X-CORE\source\repos\BoxOffice\HomeCinema.Data\bin\Debug\netcoreapp2.1\HomeCinema.Entities.dll
+C:\Users\Shawn Majoto.X-CORE\source\repos\BoxOffice\HomeCinema.Data\bin\Debug\netcoreapp2.1\HomeCinema.Entities.pdb
+C:\Users\Shawn Majoto.X-CORE\source\repos\BoxOffice\HomeCinema.Data\obj\Debug\netcoreapp2.1\HomeCinema.Data.csprojAssemblyReference.cache
+C:\Users\Shawn Majoto.X-CORE\source\repos\BoxOffice\HomeCinema.Data\obj\Debug\netcoreapp2.1\HomeCinema.Data.csproj.CoreCompileInputs.cache
+C:\Users\Shawn Majoto.X-CORE\source\repos\BoxOffice\HomeCinema.Data\obj\Debug\netcoreapp2.1\HomeCinema.Data.AssemblyInfoInputs.cache
+C:\Users\Shawn Majoto.X-CORE\source\repos\BoxOffice\HomeCinema.Data\obj\Debug\netcoreapp2.1\HomeCinema.Data.AssemblyInfo.cs
+C:\Users\Shawn Majoto.X-CORE\source\repos\BoxOffice\HomeCinema.Data\obj\Debug\netcoreapp2.1\HomeCinema.Data.csproj.CopyComplete
+C:\Users\Shawn Majoto.X-CORE\source\repos\BoxOffice\HomeCinema.Data\bin\Debug\netcoreapp2.1\HomeCinema.Data.pdb
+C:\Users\Shawn Majoto.X-CORE\source\repos\BoxOffice\HomeCinema.Data\obj\Debug\netcoreapp2.1\HomeCinema.Data.dll
+C:\Users\Shawn Majoto.X-CORE\source\repos\BoxOffice\HomeCinema.Data\obj\Debug\netcoreapp2.1\HomeCinema.Data.pdb
