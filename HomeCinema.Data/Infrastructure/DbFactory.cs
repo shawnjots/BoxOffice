@@ -10,7 +10,7 @@ namespace HomeCinema.Data.Infrastructure
 
         public HomeCinemaContext Init()
         {
-            return dbContext ?? (dbContext = new HomeCinemaContext(options: null));
+            return dbContext ?? (dbContext = new HomeCinemaContext(null));
         }
 
         protected override void DisposeCore()
