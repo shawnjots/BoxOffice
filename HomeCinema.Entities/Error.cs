@@ -27,5 +27,10 @@ namespace HomeCinema.Entities
             set { stackTrace = value; }
         }
         private DateTime dateCreated;
+        public DateTime DateCreated
+        {
+            get { return dateCreated; }
+            set { dateCreated = value; }
+        }
     }
 }

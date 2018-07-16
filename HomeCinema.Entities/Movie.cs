@@ -73,6 +73,7 @@ namespace HomeCinema.Entities
         public byte Rating
         {
             get { return rating; }
+            set { rating = value; }
         }
 
         private string trailerURI;
