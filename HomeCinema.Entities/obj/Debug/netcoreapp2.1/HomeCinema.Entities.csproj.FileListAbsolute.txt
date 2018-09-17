@@ -7,3 +7,12 @@ C:\Users\Shawn Majoto.X-CORE\source\repos\BoxOffice\HomeCinema.Entities\obj\Debu
 C:\Users\Shawn Majoto.X-CORE\source\repos\BoxOffice\HomeCinema.Entities\obj\Debug\netcoreapp2.1\HomeCinema.Entities.AssemblyInfo.cs
 C:\Users\Shawn Majoto.X-CORE\source\repos\BoxOffice\HomeCinema.Entities\obj\Debug\netcoreapp2.1\HomeCinema.Entities.dll
 C:\Users\Shawn Majoto.X-CORE\source\repos\BoxOffice\HomeCinema.Entities\obj\Debug\netcoreapp2.1\HomeCinema.Entities.pdb
+C:\Users\SHAWN JOTS\source\repos\BoxOffice\HomeCinema.Entities\bin\Debug\netcoreapp2.1\HomeCinema.Entities.deps.json
+C:\Users\SHAWN JOTS\source\repos\BoxOffice\HomeCinema.Entities\bin\Debug\netcoreapp2.1\HomeCinema.Entities.dll
+C:\Users\SHAWN JOTS\source\repos\BoxOffice\HomeCinema.Entities\bin\Debug\netcoreapp2.1\HomeCinema.Entities.pdb
+C:\Users\SHAWN JOTS\source\repos\BoxOffice\HomeCinema.Entities\obj\Debug\netcoreapp2.1\HomeCinema.Entities.csprojAssemblyReference.cache
+C:\Users\SHAWN JOTS\source\repos\BoxOffice\HomeCinema.Entities\obj\Debug\netcoreapp2.1\HomeCinema.Entities.csproj.CoreCompileInputs.cache
+C:\Users\SHAWN JOTS\source\repos\BoxOffice\HomeCinema.Entities\obj\Debug\netcoreapp2.1\HomeCinema.Entities.AssemblyInfoInputs.cache
+C:\Users\SHAWN JOTS\source\repos\BoxOffice\HomeCinema.Entities\obj\Debug\netcoreapp2.1\HomeCinema.Entities.AssemblyInfo.cs
+C:\Users\SHAWN JOTS\source\repos\BoxOffice\HomeCinema.Entities\obj\Debug\netcoreapp2.1\HomeCinema.Entities.dll
+C:\Users\SHAWN JOTS\source\repos\BoxOffice\HomeCinema.Entities\obj\Debug\netcoreapp2.1\HomeCinema.Entities.pdb

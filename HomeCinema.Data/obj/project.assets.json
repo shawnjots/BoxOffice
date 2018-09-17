@@ -2932,23 +2932,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Shawn Majoto.X-CORE\\.nuget\\packages\\": {},
+    "C:\\Users\\SHAWN JOTS\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Shawn Majoto.X-CORE\\source\\repos\\BoxOffice\\HomeCinema.Data\\HomeCinema.Data.csproj",
+      "projectUniqueName": "C:\\Users\\SHAWN JOTS\\source\\repos\\BoxOffice\\HomeCinema.Data\\HomeCinema.Data.csproj",
       "projectName": "HomeCinema.Data",
-      "projectPath": "C:\\Users\\Shawn Majoto.X-CORE\\source\\repos\\BoxOffice\\HomeCinema.Data\\HomeCinema.Data.csproj",
-      "packagesPath": "C:\\Users\\Shawn Majoto.X-CORE\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Shawn Majoto.X-CORE\\source\\repos\\BoxOffice\\HomeCinema.Data\\obj\\",
+      "projectPath": "C:\\Users\\SHAWN JOTS\\source\\repos\\BoxOffice\\HomeCinema.Data\\HomeCinema.Data.csproj",
+      "packagesPath": "C:\\Users\\SHAWN JOTS\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\SHAWN JOTS\\source\\repos\\BoxOffice\\HomeCinema.Data\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\Shawn Majoto.X-CORE\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\SHAWN JOTS\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -2956,14 +2956,13 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "C:\\Users\\Shawn Majoto.X-CORE\\.nuget\\packages": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "netcoreapp2.1": {
           "projectReferences": {
-            "C:\\Users\\Shawn Majoto.X-CORE\\source\\repos\\BoxOffice\\HomeCinema.Entities\\HomeCinema.Entities.csproj": {
-              "projectPath": "C:\\Users\\Shawn Majoto.X-CORE\\source\\repos\\BoxOffice\\HomeCinema.Entities\\HomeCinema.Entities.csproj"
+            "C:\\Users\\SHAWN JOTS\\source\\repos\\BoxOffice\\HomeCinema.Entities\\HomeCinema.Entities.csproj": {
+              "projectPath": "C:\\Users\\SHAWN JOTS\\source\\repos\\BoxOffice\\HomeCinema.Entities\\HomeCinema.Entities.csproj"
             }
           }
         }
