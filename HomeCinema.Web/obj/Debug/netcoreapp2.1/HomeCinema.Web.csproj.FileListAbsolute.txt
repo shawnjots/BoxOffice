@@ -11,3 +11,17 @@ C:\Users\SHAWN JOTS\source\repos\BoxOffice\HomeCinema.Web\obj\Debug\netcoreapp2.
 C:\Users\SHAWN JOTS\source\repos\BoxOffice\HomeCinema.Web\bin\Debug\netcoreapp2.1\HomeCinema.Web.pdb
 C:\Users\SHAWN JOTS\source\repos\BoxOffice\HomeCinema.Web\obj\Debug\netcoreapp2.1\HomeCinema.Web.dll
 C:\Users\SHAWN JOTS\source\repos\BoxOffice\HomeCinema.Web\obj\Debug\netcoreapp2.1\HomeCinema.Web.pdb
+C:\Users\Administrator\source\repos\BoxOffice\HomeCinema.Web\bin\Debug\netcoreapp2.1\HomeCinema.Web.deps.json
+C:\Users\Administrator\source\repos\BoxOffice\HomeCinema.Web\bin\Debug\netcoreapp2.1\HomeCinema.Web.runtimeconfig.json
+C:\Users\Administrator\source\repos\BoxOffice\HomeCinema.Web\bin\Debug\netcoreapp2.1\HomeCinema.Web.runtimeconfig.dev.json
+C:\Users\Administrator\source\repos\BoxOffice\HomeCinema.Web\bin\Debug\netcoreapp2.1\HomeCinema.Web.dll
+C:\Users\Administrator\source\repos\BoxOffice\HomeCinema.Web\bin\Debug\netcoreapp2.1\HomeCinema.Web.pdb
+C:\Users\Administrator\source\repos\BoxOffice\HomeCinema.Web\obj\Debug\netcoreapp2.1\HomeCinema.Web.csprojAssemblyReference.cache
+C:\Users\Administrator\source\repos\BoxOffice\HomeCinema.Web\obj\Debug\netcoreapp2.1\HomeCinema.Web.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\BoxOffice\HomeCinema.Web\obj\Debug\netcoreapp2.1\HomeCinema.Web.RazorAssemblyInfo.cache
+C:\Users\Administrator\source\repos\BoxOffice\HomeCinema.Web\obj\Debug\netcoreapp2.1\HomeCinema.Web.RazorAssemblyInfo.cs
+C:\Users\Administrator\source\repos\BoxOffice\HomeCinema.Web\obj\Debug\netcoreapp2.1\HomeCinema.Web.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\BoxOffice\HomeCinema.Web\obj\Debug\netcoreapp2.1\HomeCinema.Web.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\BoxOffice\HomeCinema.Web\obj\Debug\netcoreapp2.1\HomeCinema.Web.RazorTargetAssemblyInfo.cache
+C:\Users\Administrator\source\repos\BoxOffice\HomeCinema.Web\obj\Debug\netcoreapp2.1\HomeCinema.Web.dll
+C:\Users\Administrator\source\repos\BoxOffice\HomeCinema.Web\obj\Debug\netcoreapp2.1\HomeCinema.Web.pdb
